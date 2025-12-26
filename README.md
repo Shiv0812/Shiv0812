@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 
-<table>
+<table border="0">
   <tr>
-    <!-- LEFT SIDE : TEXT -->
+    <!-- LEFT : TEXT -->
     <td width="65%" valign="top">
 
 - 🎓 B.Tech (IT) Student @ PICT ’28 | Diploma in Computer Engineering  
@@ -24,21 +24,20 @@
 
     </td>
 
-    <!-- RIGHT SIDE : IMAGE -->
+    <!-- RIGHT : IMAGE -->
     <td width="35%" align="center">
 
 <img src="shiv.jpeg"
      width="260"
-     style="border-radius: 50 ;"/>
+     height="260"
+     style="border-radius:50%; object-fit:cover;" />
 
 <br/>
-
 <b>Shivkumar Swami</b>
 
     
   </tr>
 </table>
-
 ---
 
 ## 🔭 Current Work
